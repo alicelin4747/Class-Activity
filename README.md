@@ -1,5 +1,8 @@
-# Class-Activity
-Class Activity
-My name is Alice and I am from SF.
-My career goal is to swtich to FinTech from Finance.
-FinTech because that's the future. Tech is everywhere! ;)
+# Hell FinTech!
+![] (images/Octocat.jpg)
+## **git hub is super useful, just FYI**
+### Table of Contents
+* [Code](code)
+* [Data](data)
+* [Images](images)
+* [References](references)
